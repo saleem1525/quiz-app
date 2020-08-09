@@ -1,0 +1,38 @@
+body{
+    background-color: yellow;
+}
+.main{
+    background-image: url('FAVPNG.png');
+    background-repeat: no-repeat;
+    background-size: 20%;
+    
+}
+.main div h1{
+    margin-left: 50%;
+    color: rgb(128, 0, 111);
+}
+.ques{
+    border: 2px solid rgb(36, 128, 0);
+    border-radius: 1em;
+    width: 50%;
+    margin: 0 0 0 25%;
+    padding: 100px;
+}
+.q p{
+    margin-left: 3%;
+    font-weight: bold;
+    font-size: 20px;
+}
+.q input{
+    margin: 10px 10px 10px 3%;
+}
+button{
+    margin: 50px 0 0 40%;
+    width: 500px;
+    height: 50px;
+    background-color: bisque;
+    font-weight: bold;
+    font-size: 30px;
+    border: 2px solid rgb(0, 128, 32);
+    border-radius: 3em;
+}
